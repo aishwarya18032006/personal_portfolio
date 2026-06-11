@@ -66,7 +66,6 @@ const Projects = () => {
   tech: ['React.js', 'FastAPI', 'Selenium', 'SQLite', 'Groq AI'],
   category: 'AI/QA',
   github: 'https://github.com/aishwarya18032006/ai-web-testing-platform',
-  demo: 'YOUR_DEPLOYED_LINK_HERE',
   color: 'from-purple-500 to-pink-500',
 }
   ]
