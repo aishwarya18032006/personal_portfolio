@@ -38,27 +38,37 @@ const Projects = () => {
       demo: 'https://chef-ai-55da.vercel.app/',
       color: 'from-purple-500 to-pink-500',
     },
+   
     {
-      id: 4,
-      title: 'Emotion Detector',
-      description: 'Deep Learning project for emotion detection and sentiment analysis.',
-      tech: ['Python', 'Deep Learning', 'TensorFlow', 'OpenCV'],
-      category: 'AI/ML',
-      github: 'https://github.com/aishwarya18032006/Emotion-Detector',
-      demo: 'https://emotion-detection-webapp-3.onrender.com',
-      color: 'from-blue-500 to-cyan-500',
-    },
+  id: 4,
+  title: 'IncidentIQ',
+  description: 'AI-powered incident management and root cause analysis platform with automated RCA generation, timeline analysis, and intelligent reporting.',
+  tech: ['React', 'Node.js', 'SQLite', 'OpenAI', 'Groq', 'Gemini'],
+  category: 'AI/ML',
+  github: 'https://github.com/aishwarya18032006/Inciden-tIQ',
+  demo: 'https://inciden-t-iq.vercel.app/',
+  color: 'from-purple-500 to-indigo-600',
+},
     {
-      id: 5,
-      title: 'Smart Water tester',
-      description: 'IoT-based water quality monitoring system using sensors and microcontrollers.',
-      tech: ['Flask', 'Sensors', 'Thingspeak', 'javaScript'],
-      category: 'IoT',
-      github: 'https://github.com/aishwarya18032006/Smart_Water_Tester',
-      demo: 'https://smart-water-tester-1.onrender.com/',
-      color: 'from-green-500 to-emerald-500',
-    
-    },
+  id: 5,
+  title: 'CloudPulse AI',
+  description: 'AI-Powered Multi-Cloud Intelligence Platform',
+  tech: ['React.js', 'Node.js', 'PostgreSQL', 'XGBoost', 'Gemini AI'],
+  category: 'AI/Cloud',
+  github: 'https://github.com/aishwarya18032006/CloudPulse-AI',
+  demo: 'https://cloud-pulse-ai-zzsw.vercel.app',
+  color: 'from-blue-500 to-cyan-500',
+}
+    {
+  id: 6,
+  title: 'TestForge AI',
+  description: 'AI-Powered Web Testing & QA Automation Platform',
+  tech: ['React.js', 'FastAPI', 'Selenium', 'SQLite', 'Groq AI'],
+  category: 'AI/QA',
+  github: 'https://github.com/aishwarya18032006/ai-web-testing-platform',
+  demo: 'YOUR_DEPLOYED_LINK_HERE',
+  color: 'from-purple-500 to-pink-500',
+}
   ]
 
   return (
