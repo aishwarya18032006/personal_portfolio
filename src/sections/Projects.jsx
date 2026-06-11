@@ -40,25 +40,25 @@ const Projects = () => {
     },
    
     {
-  id: 4,
-  title: 'IncidentIQ',
-  description: 'AI-powered incident management and root cause analysis platform with automated RCA generation, timeline analysis, and intelligent reporting.',
-  tech: ['React', 'Node.js', 'SQLite', 'OpenAI', 'Groq', 'Gemini'],
-  category: 'AI/ML',
-  github: 'https://github.com/aishwarya18032006/Inciden-tIQ',
-  demo: 'https://inciden-t-iq.vercel.app/',
-  color: 'from-purple-500 to-indigo-600',
-},
-    {
-  id: 5,
-  title: 'CloudPulse AI',
-  description: 'AI-Powered Multi-Cloud Intelligence Platform',
-  tech: ['React.js', 'Node.js', 'PostgreSQL', 'XGBoost', 'Gemini AI'],
-  category: 'AI/Cloud',
-  github: 'https://github.com/aishwarya18032006/CloudPulse-AI',
-  demo: 'https://cloud-pulse-ai-zzsw.vercel.app',
-  color: 'from-blue-500 to-cyan-500',
-}
+      id: 4,
+      title: 'IncidentIQ',
+      description: 'AI-powered incident management and root cause analysis platform with automated RCA generation, timeline analysis, and intelligent reporting.',
+      tech: ['React', 'Node.js', 'SQLite', 'OpenAI', 'Groq', 'Gemini'],
+      category: 'AI/ML',
+      github: 'https://github.com/aishwarya18032006/Inciden-tIQ',
+      demo: 'https://inciden-t-iq.vercel.app/',
+      color: 'from-purple-500 to-indigo-600',
+  },
+  {
+    id: 5,
+    title: 'CloudPulse AI',
+    description: 'AI-Powered Multi-Cloud Intelligence Platform',
+    tech: ['React.js', 'Node.js', 'PostgreSQL', 'XGBoost', 'Gemini AI'],
+    category: 'AI/Cloud',
+    github: 'https://github.com/aishwarya18032006/CloudPulse-AI',
+    demo: 'https://cloud-pulse-ai-zzsw.vercel.app',
+    color: 'from-blue-500 to-cyan-500',
+  },
     {
   id: 6,
   title: 'TestForge AI',
@@ -67,7 +67,7 @@ const Projects = () => {
   category: 'AI/QA',
   github: 'https://github.com/aishwarya18032006/ai-web-testing-platform',
   color: 'from-purple-500 to-pink-500',
-}
+},
   ]
 
   return (
